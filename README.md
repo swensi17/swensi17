@@ -21,13 +21,6 @@
 
 <br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=swensi17&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swensi17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=swensi17&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681&card_width=700)](https://git.io/streak-stats)
-
-<br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swensi17&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true)](https://github.com/swensi17)
 
 <br/>
