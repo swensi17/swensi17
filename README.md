@@ -32,11 +32,12 @@
 
 <br/>
 
-**→ [t.me/swensidev](https://t.me/swensidev)** &nbsp;·&nbsp; 💜 [Поддержать](https://t.me/tribute/app?startapp=ep_7qdvBb34zk7b1QW4bCTfA7YXRfpCz2PJoV25omHd06QXD9Lw7d)
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+[![Telegram](https://img.shields.io/badge/Telegram-swensidev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swensidev)
+[![Donate](https://img.shields.io/badge/💜_Поддержать-a78bfa?style=for-the-badge)](https://t.me/tribute/app?startapp=ep_7qdvBb34zk7b1QW4bCTfA7YXRfpCz2PJoV25omHd06QXD9Lw7d)
 
 </div>
 
