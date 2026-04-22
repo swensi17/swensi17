@@ -33,6 +33,10 @@
 
 **→ [t.me/swensidev](https://t.me/swensidev)** &nbsp;·&nbsp; 💜 [Поддержать](https://t.me/tribute/app?startapp=ep_7qdvBb34zk7b1QW4bCTfA7YXRfpCz2PJoV25omHd06QXD9Lw7d)
 
+<br/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%"/>
