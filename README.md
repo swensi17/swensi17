@@ -8,37 +8,6 @@
 
 <br/>
 
-```python
-class Developer:
-    name     = "SWENSI™"
-    exp      = "4+ лет"
-    stack    = ["Python", "Node.js", "React", "TS", "C#", "Swift", "Kotlin", "Docker"]
-    services = ["Telegram боты", "Веб", "iOS/Android", "Автоматизация", "Парсеры"]
-    fun_fact = "баги — это фичи без документации"
-    contact  = "t.me/swensidev"
-```
-
----
-
-<div align="center">
-
-### 🛠 Стек
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
-![C%23](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)
-![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📊 Stats
@@ -50,7 +19,7 @@ class Developer:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -58,7 +27,7 @@ class Developer:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
