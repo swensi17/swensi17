@@ -19,7 +19,6 @@
 
 class Developer:
     name     = "SWENSI™"
-    location = "Uzbekistan 🇺🇿"
     exp      = "4 года + 1 стаж (считаю с пелёнок)"
     
     stack = {
