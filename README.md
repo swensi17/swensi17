@@ -12,8 +12,6 @@
 
 <br/>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ```python
 # /root/swensi17/config.py
 
@@ -44,13 +42,12 @@ class Developer:
         return "https://t.me/swensidev"
 ```
 
-<br clear="right"/>
 
 ---
 
 <div align="center">
 
-### 🛠 Стек (без воды)
+### 🛠 Стек
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
